@@ -95,6 +95,12 @@ Finding reliable, genuinely free, and easy-to-use APIs can be time-consuming. Th
 
 ### Jokes & Fun
 
+*   **[Bucketlist.nl Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json)**
+    *   Description: One daily travel or personal-experience idea, with an image and source URL. This example returns Dutch data.
+    *   Auth: `No`
+    *   HTTPS: `Yes`
+    *   CORS: `Unknown` (Official docs and an actual response show wildcard support; not tested in a browser.)
+
 *   **[Official Joke API](https://github.com/15Dkatz/official_joke_api)** (Docs link to GitHub repo)
     *   Description: Simple API for random jokes, including programming jokes. Endpoints provided in the repo's README.
     *   Auth: `No`
